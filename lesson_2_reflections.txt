@@ -1,0 +1,12 @@
+init sets up a new, empty repository in the
+folder youre in.
+Whitout the init, you cant commit
+
+the staging area is like a stepstone from the working
+directory to the repo.
+the files in this area are going to be commited 
+with the next commit
+if there a files in my working directory which i dont want
+to add to the repo.
+if i made a change affecting multiple files, i can bundle them
+into one logical commit
