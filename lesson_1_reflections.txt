@@ -1,0 +1,30 @@
+it was quick, but when you know code
+you dont think about the changes in 
+the content that wont produce bugs
+
+having easy access to older verisons
+takes away fear of changing the code
+
+Pro:
+logical and hopefully functional versions
+no useless clutter
+
+Cons:
+danger of forgetting
+
+Docs main purpose is not to track your projects, 
+its more to share with friends and 
+access from anywhere
+
+git log:
+view the log of the entire reppo
+
+git diff:
+find difference between two commits
+
+i wont have to find the error myself
+or git helps me find changes i made 
+and i can easily revert them
+
+
+Study, asshole
